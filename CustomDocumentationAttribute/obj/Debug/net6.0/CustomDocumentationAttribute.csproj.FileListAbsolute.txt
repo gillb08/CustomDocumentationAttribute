@@ -1,0 +1,15 @@
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\bin\Debug\net6.0\CustomDocumentationAttribute.exe
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\bin\Debug\net6.0\CustomDocumentationAttribute.deps.json
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\bin\Debug\net6.0\CustomDocumentationAttribute.runtimeconfig.json
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\bin\Debug\net6.0\CustomDocumentationAttribute.dll
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\bin\Debug\net6.0\CustomDocumentationAttribute.pdb
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.csproj.AssemblyReference.cache
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.AssemblyInfoInputs.cache
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.AssemblyInfo.cs
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.csproj.CoreCompileInputs.cache
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.dll
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\refint\CustomDocumentationAttribute.dll
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.pdb
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\CustomDocumentationAttribute.genruntimeconfig.cache
+C:\Users\windows subsidary\source\repos\CustomDocumentationAttribute\obj\Debug\net6.0\ref\CustomDocumentationAttribute.dll
