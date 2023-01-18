@@ -25,16 +25,16 @@
         enum TraineeScreams
         {
             [Document("This is a Trainee Scream enum", Input = "enum choice of screams taken", Output = "Output enums Info")]
-            Omo,
+            Oh!!,
 
             [Document("This is a Trainee Scream enum", Input = "enum choice of screams taken", Output = "Output enums Info")]
-            HeyGod,
+            Pheww,
 
             [Document("This is a Trainee Scream enum", Input = "enum choice of screams taken", Output = "Output enums Info")]
-            GodAbeg,
+            Omg,
 
             [Document("This is a Trainee Scream enum", Input = "enum choice of screams taken", Output = "Output enums Info")]
-            OhShit
+            Damn
         }
 
         [Document("This is a get Trainee Scream method attribute", Input = "input may be enum", Output = "enum choosen")]
